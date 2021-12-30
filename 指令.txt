@@ -1,0 +1,4 @@
+>用 最大權限開啟 終端機
+cd {rootpath}\TestTopshelf\bin\Release\net6.0\publish
+TestTopshelf.exe install
+TestTopshelf.exe uninstall 
